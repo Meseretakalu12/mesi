@@ -1,0 +1,69 @@
+
+.mainDiv {
+	
+	width:80%;
+	min-height: 500px;	
+	 height: auto;
+    overflow: hidden;
+	position:relative;
+	left:10%;
+	background-color: #283747 ;
+	top:-3%;
+	 
+	}
+
+
+.duck1 { 
+position: relative;
+	bottom:-3%;
+    width:100%;
+    height:100px;
+  
+ background-size: 100% 100%;
+ font-size: 20px; 
+ 
+  -moz-box-shadow:    3px 3px 5px 6px green;
+  -webkit-box-shadow: 3px 3px 5px 6px green;
+  box-shadow:         3px 3px 5px 6px green;
+ 
+  
+ } 
+ .trBorder1 { 
+ height: 100px;
+ opacity: .5;
+ z-index: -1;
+ width: 100%; 
+ margin: 0px;
+ background: rgba(255,255,255,.5); 
+ }
+
+
+ .content{
+ width:100%;
+ background-color:lightblue;
+ margin:auto;
+ margin-top:0%;
+ overflow-y: scroll;
+    overflow-x:hidden;
+ box-shadow:0 0 3px #999;
+ }
+  .containr{
+	  position:relative;
+ width:100%;
+min-height: 400px;	
+ background-color:rgba(250,250,252,.9);
+ 
+ margin-top:0%;
+ 
+ box-shadow:0 0 3px #999;
+ }   
+  .mainDv {
+	top:30px;
+	background-color: #90bade;
+	right: 0px;
+	min-height: 720px;	
+	margin: 0px auto;	
+	width: 90%;
+	position: relative;	
+	font-size: 15px;
+        }  
